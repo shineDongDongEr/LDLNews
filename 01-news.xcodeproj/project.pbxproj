@@ -15,6 +15,16 @@
 		11A2D5511D5329C8001CBF22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11A2D54F1D5329C8001CBF22 /* LaunchScreen.storyboard */; };
 		11A2D55C1D5329C8001CBF22 /* _1_newsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D55B1D5329C8001CBF22 /* _1_newsTests.m */; };
 		11A2D5671D5329C8001CBF22 /* _1_newsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D5661D5329C8001CBF22 /* _1_newsUITests.m */; };
+		11A2D5761D532D1F001CBF22 /* LDLNewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D5751D532D1F001CBF22 /* LDLNewsViewController.m */; };
+		11A2D5791D533F45001CBF22 /* HotViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D5781D533F45001CBF22 /* HotViewController.m */; };
+		11A2D57C1D533F54001CBF22 /* HeadNewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D57B1D533F54001CBF22 /* HeadNewViewController.m */; };
+		11A2D57F1D533F62001CBF22 /* TVPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D57E1D533F62001CBF22 /* TVPlayerViewController.m */; };
+		11A2D5821D533F71001CBF22 /* SocieatyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D5811D533F71001CBF22 /* SocieatyViewController.m */; };
+		11A2D5851D533FA8001CBF22 /* JMYPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 11A2D5841D533FA8001CBF22 /* JMYPViewController.m */; };
+		381FD7401D54627A000A434F /* WordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 381FD73F1D54627A000A434F /* WordViewController.m */; };
+		381FD7431D54628A000A434F /* MusicViewcontroller.m in Sources */ = {isa = PBXBuildFile; fileRef = 381FD7421D54628A000A434F /* MusicViewcontroller.m */; };
+		38AC22771D5B0C1600E6E86A /* LDLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AC22761D5B0C1600E6E86A /* LDLButton.m */; };
+		38AC227A1D5B0D3800E6E86A /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AC22791D5B0D3800E6E86A /* UIView+Frame.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,26 @@
 		11A2D5621D5329C8001CBF22 /* 01-newsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01-newsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11A2D5661D5329C8001CBF22 /* _1_newsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _1_newsUITests.m; sourceTree = "<group>"; };
 		11A2D5681D5329C8001CBF22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11A2D5741D532D1F001CBF22 /* LDLNewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LDLNewsViewController.h; sourceTree = "<group>"; };
+		11A2D5751D532D1F001CBF22 /* LDLNewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LDLNewsViewController.m; sourceTree = "<group>"; };
+		11A2D5771D533F45001CBF22 /* HotViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HotViewController.h; sourceTree = "<group>"; };
+		11A2D5781D533F45001CBF22 /* HotViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HotViewController.m; sourceTree = "<group>"; };
+		11A2D57A1D533F54001CBF22 /* HeadNewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeadNewViewController.h; sourceTree = "<group>"; };
+		11A2D57B1D533F54001CBF22 /* HeadNewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeadNewViewController.m; sourceTree = "<group>"; };
+		11A2D57D1D533F62001CBF22 /* TVPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TVPlayerViewController.h; sourceTree = "<group>"; };
+		11A2D57E1D533F62001CBF22 /* TVPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TVPlayerViewController.m; sourceTree = "<group>"; };
+		11A2D5801D533F71001CBF22 /* SocieatyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocieatyViewController.h; sourceTree = "<group>"; };
+		11A2D5811D533F71001CBF22 /* SocieatyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocieatyViewController.m; sourceTree = "<group>"; };
+		11A2D5831D533FA8001CBF22 /* JMYPViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JMYPViewController.h; sourceTree = "<group>"; };
+		11A2D5841D533FA8001CBF22 /* JMYPViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JMYPViewController.m; sourceTree = "<group>"; };
+		381FD73E1D54627A000A434F /* WordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WordViewController.h; sourceTree = "<group>"; };
+		381FD73F1D54627A000A434F /* WordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WordViewController.m; sourceTree = "<group>"; };
+		381FD7411D54628A000A434F /* MusicViewcontroller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicViewcontroller.h; sourceTree = "<group>"; };
+		381FD7421D54628A000A434F /* MusicViewcontroller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicViewcontroller.m; sourceTree = "<group>"; };
+		38AC22751D5B0C1600E6E86A /* LDLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LDLButton.h; sourceTree = "<group>"; };
+		38AC22761D5B0C1600E6E86A /* LDLButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LDLButton.m; sourceTree = "<group>"; };
+		38AC22781D5B0D3800E6E86A /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		38AC22791D5B0D3800E6E86A /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +135,18 @@
 				11A2D5451D5329C8001CBF22 /* AppDelegate.m */,
 				11A2D5471D5329C8001CBF22 /* ViewController.h */,
 				11A2D5481D5329C8001CBF22 /* ViewController.m */,
+				11A2D5771D533F45001CBF22 /* HotViewController.h */,
+				11A2D5781D533F45001CBF22 /* HotViewController.m */,
+				11A2D57A1D533F54001CBF22 /* HeadNewViewController.h */,
+				11A2D57B1D533F54001CBF22 /* HeadNewViewController.m */,
+				11A2D57D1D533F62001CBF22 /* TVPlayerViewController.h */,
+				11A2D57E1D533F62001CBF22 /* TVPlayerViewController.m */,
+				11A2D5801D533F71001CBF22 /* SocieatyViewController.h */,
+				11A2D5811D533F71001CBF22 /* SocieatyViewController.m */,
+				381FD73E1D54627A000A434F /* WordViewController.h */,
+				381FD73F1D54627A000A434F /* WordViewController.m */,
+				381FD7411D54628A000A434F /* MusicViewcontroller.h */,
+				381FD7421D54628A000A434F /* MusicViewcontroller.m */,
 				11A2D54A1D5329C8001CBF22 /* Main.storyboard */,
 				11A2D54D1D5329C8001CBF22 /* Assets.xcassets */,
 				11A2D54F1D5329C8001CBF22 /* LaunchScreen.storyboard */,
@@ -118,6 +160,14 @@
 			isa = PBXGroup;
 			children = (
 				11A2D5421D5329C8001CBF22 /* main.m */,
+				38AC22781D5B0D3800E6E86A /* UIView+Frame.h */,
+				38AC22791D5B0D3800E6E86A /* UIView+Frame.m */,
+				11A2D5741D532D1F001CBF22 /* LDLNewsViewController.h */,
+				11A2D5751D532D1F001CBF22 /* LDLNewsViewController.m */,
+				38AC22751D5B0C1600E6E86A /* LDLButton.h */,
+				38AC22761D5B0C1600E6E86A /* LDLButton.m */,
+				11A2D5831D533FA8001CBF22 /* JMYPViewController.h */,
+				11A2D5841D533FA8001CBF22 /* JMYPViewController.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -270,9 +320,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				381FD7401D54627A000A434F /* WordViewController.m in Sources */,
+				11A2D5851D533FA8001CBF22 /* JMYPViewController.m in Sources */,
 				11A2D5491D5329C8001CBF22 /* ViewController.m in Sources */,
+				11A2D57C1D533F54001CBF22 /* HeadNewViewController.m in Sources */,
 				11A2D5461D5329C8001CBF22 /* AppDelegate.m in Sources */,
+				38AC227A1D5B0D3800E6E86A /* UIView+Frame.m in Sources */,
+				11A2D5821D533F71001CBF22 /* SocieatyViewController.m in Sources */,
+				11A2D57F1D533F62001CBF22 /* TVPlayerViewController.m in Sources */,
+				11A2D5791D533F45001CBF22 /* HotViewController.m in Sources */,
 				11A2D5431D5329C8001CBF22 /* main.m in Sources */,
+				381FD7431D54628A000A434F /* MusicViewcontroller.m in Sources */,
+				38AC22771D5B0C1600E6E86A /* LDLButton.m in Sources */,
+				11A2D5761D532D1F001CBF22 /* LDLNewsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +558,7 @@
 				11A2D56D1D5329C8001CBF22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		11A2D56E1D5329C8001CBF22 /* Build configuration list for PBXNativeTarget "01-newsTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +567,7 @@
 				11A2D5701D5329C8001CBF22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		11A2D5711D5329C8001CBF22 /* Build configuration list for PBXNativeTarget "01-newsUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +576,7 @@
 				11A2D5731D5329C8001CBF22 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
